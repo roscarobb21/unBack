@@ -1,0 +1,4 @@
+sa vezi ce o postat un patan 
+
+//o ruta de back
+// un component de front
